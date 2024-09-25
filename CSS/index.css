@@ -1,0 +1,18 @@
+@font-face {
+ font-family: 'Nasalization'  , sans-serif;
+ src: url('/Fonts/nasalization-rg.otf') format('truetype');
+}
+
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+ font-family: 'Nasalization' , sans-serif;
+}
+
+
+body {
+ width: 100%;
+ height: 100%;
+ font-family: 'Nasalization', sans-serif;
+}
